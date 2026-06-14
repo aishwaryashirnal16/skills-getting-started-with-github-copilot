@@ -74,6 +74,42 @@ activities = {
         "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
         "max_participants": 15,
         "participants": ["oliver@mergington.edu", "sophia.m@mergington.edu"]
+    },
+    "Volleyball Team": {
+        "description": "Team-based volleyball training and competitive matches",
+        "schedule": "Mondays and Fridays, 4:00 PM - 5:30 PM",
+        "max_participants": 20,
+        "participants": ["lucas@mergington.edu", "emma.v@mergington.edu"]
+    },
+    "Track and Field": {
+        "description": "Run, jump, and throw in competitive track and field events",
+        "schedule": "Tuesdays, Thursdays, Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 25,
+        "participants": ["ryan@mergington.edu", "natalie@mergington.edu"]
+    },
+    "Music Club": {
+        "description": "Learn instruments, perform concerts, and explore diverse music genres",
+        "schedule": "Wednesdays and Saturdays, 3:30 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": ["isabella@mergington.edu", "marcus@mergington.edu"]
+    },
+    "Photography Club": {
+        "description": "Learn photography techniques and create visual art projects",
+        "schedule": "Thursdays, 4:00 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": ["grace@mergington.edu", "david@mergington.edu"]
+    },
+    "Science Club": {
+        "description": "Conduct experiments and explore scientific discoveries",
+        "schedule": "Mondays and Wednesdays, 3:30 PM - 4:30 PM",
+        "max_participants": 18,
+        "participants": ["jacob@mergington.edu", "claire@mergington.edu"]
+    },
+    "Model United Nations": {
+        "description": "Debate global issues and represent countries in diplomatic simulations",
+        "schedule": "Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 24,
+        "participants": ["hannah@mergington.edu", "leo@mergington.edu"]
     }
 }
 
